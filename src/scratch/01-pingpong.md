@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Desafio 01-Ping Pong
 <img :src="$withBase('/img/Pasted image 20220215135541.png')">
 
