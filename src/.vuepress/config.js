@@ -1,7 +1,6 @@
 module.exports = {
   dest: 'docs',
-  base: '/zerferdocs/',
-  hostname: 'https://zerferplay.github.io',
+  base: '/',
   title: 'ZerferPlay',
   description: 'Siempre aprendiendo',
 
