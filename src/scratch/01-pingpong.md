@@ -4,6 +4,7 @@ sidebar: auto
 
 # Desafio 01-Scratch
 <img :src="$withBase('/img/Pasted image 20220215135541.png')">
+
 **Prerequisitos**
 Trabajaremos sobre Scratch 2
 
