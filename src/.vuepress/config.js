@@ -40,23 +40,23 @@ module.exports = {
       },
       {
         text: 'Lego',
-        link: '/LegoWedo/'
+        link: 'https://zerferplay.vercel.app'
       },
-      {
-        text: 'Challenges',
-        prefix: '/challenges/',
-        items: [{
-            text: "Lego 16:00",
-            link: "markdown/",
-            icon: "markdown"
-          },
-          {
-            text: "VuePress",
-            link: "vuepress/",
-            icon: "vue"
-          },
-        ]
-      }
+      // {
+      //   text: 'Challenges',
+      //   prefix: '/challenges/',
+      //   items: [{
+      //       text: "Lego 16:00",
+      //       link: "markdown/",
+      //       icon: "markdown"
+      //     },
+      //     {
+      //       text: "VuePress",
+      //       link: "vuepress/",
+      //       icon: "vue"
+      //     },
+      //   ]
+      // }
 
     ],
     sidebar: [
