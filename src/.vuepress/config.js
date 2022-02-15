@@ -24,7 +24,7 @@ module.exports = {
   themeConfig: {
 
     editLinks: false,
-    lastUpdated: true,
+    lastUpdated: false,
 
     nav: [{
         text: 'Inicio',
@@ -60,7 +60,8 @@ module.exports = {
 
     ],
     sidebar: [
-      '/scratch/',
+      '/scratch/01-pingpong',
+      '/scratch/02-bruja',
 
     ]
   },
