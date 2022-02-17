@@ -21,6 +21,7 @@ Cuando realizamos proyectos es cuando más aprendemos, te invito a explorar una 
 
 ### Nivel "Novato"
 - [Juego Ping Pong](scratch/01-pingpong.md)
+- [Arkanoid](scratch/03-arkanoid.md)
 
 ### Nivel "Junior"
 - [Juego de la bruja](scratch/02-bruja.md)
