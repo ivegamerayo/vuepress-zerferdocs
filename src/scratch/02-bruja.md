@@ -53,7 +53,7 @@ El código que controlará el movimiento del dragón es muy sencillo pero muy in
 
 Con este código nuestro dragón estará constantemente moviéndose por la pantalla. Ahora vamos a añadir un segundo programa al dragón, que se va a encargar de controlar si el dragón está tocando a la bruja, ya que en ese caso se debe mostrar un mensaje y terminar la partida. Para ello usaremos de nuevo un bucle _repetir por siempre_:
 
-<img :src="$withBase('/img/Zerferplay/Desarrollo de videojuegos/Pasted image 20211221165713.png')">
+<img :src="$withBase('/img/Pasted image 20211221165713.png')">
 
 
 ## Recogiendo recompensas
