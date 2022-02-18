@@ -72,17 +72,21 @@ Le asignamos un lugar inicial siendo el centro de la pantalla
 <img :src="$withBase('/img/Pasted image 20220214194552.png')">
 
 ## Asignando un tiempo de espera
+
 Le damos un tiempo de espera para que los jugadores puedan ponerse manos al teclado, para ello nos vamos a la pestaña _Control_ y seleccionamos la opcion que dice _esperar x segundos_ en mi caso le he asignado 3 segundos
 
 <img :src="$withBase('/img/Pasted image 20220214194832.png')">
 
 ## Asignando el comienzo de forma aleatoria
+
 No queremos que siempre vaya hacia el mismo lado ya que si no, seria una gran ventaja para el otro jugador, para ello haremos lo siguiente:
 
 Seleccionamos desde la seccion _movimiento_ el bloque que dice _apuntar en direccion X_ despues, nos vamos a la seccion operadores y elegimos el bloque que dice _numero al azar entre 1 y 10_
+
 <img :src="$withBase('/img/Pasted image 20220214195136.png')">
 
 ## Dando movimiento a la bola
+
 <img :src="$withBase('/img/Pasted image 20220214195310.png')">
 
 Vamos a añadir los siguentes bloques para que la bola se este moviendo continuamente y que si toca un borde rebote
