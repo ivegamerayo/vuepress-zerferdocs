@@ -59,9 +59,12 @@ module.exports = {
 
     ],
     sidebar: [
+      '/scratch/',
       '/scratch/01-pingpong',
       '/scratch/02-bruja',
       '/scratch/03-arkanoid',
+      '/MicroBit/',
+      '/MicroBit/01-piedra-papel-tijera',
 
     ]
   },

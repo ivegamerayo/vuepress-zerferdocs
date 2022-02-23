@@ -53,7 +53,8 @@ Deberia de quedarnos algo asi
 ## Generando el 3º Sprite
 
 Hacemos los pasos anteriores pero en vez de dibujar un rectangulo haremos un circulo
-**Tip** Si pulsamos la tecla _Shift_ mientras dibujamos el circulo nos aseguramos que sea perfectamente un circulo.
+
+> **Tip** Si pulsamos la tecla _Shift_ mientras dibujamos el circulo nos aseguramos que sea perfectamente un circulo.
 
 ## Fijando el centro
 
