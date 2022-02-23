@@ -62,6 +62,7 @@ module.exports = {
       '/scratch/01-pingpong',
       '/scratch/02-bruja',
       '/scratch/03-arkanoid',
+      '/MicroBit/01-papel-tijera',
 
     ]
   },
