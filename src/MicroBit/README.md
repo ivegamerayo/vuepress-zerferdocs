@@ -6,4 +6,4 @@
 
 
 ## 📋 Actividades
-  - [Piedra Papel o Tijera](01-piedra-papel.md)
+  - [Piedra Papel o Tijera](01-piedra-papel-tijera.md)
