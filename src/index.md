@@ -20,6 +20,7 @@ Una forma fácil de acceder a los contenido 👇🏼👇🏼👇🏼
 Cuando realizamos proyectos es cuando más aprendemos, te invito a explorar una serie de desafíos
 
 ### Nivel "Novato"
+- [Crea tu propia nube](Nextcloud/01-Instalaci%C3%B3n.md)
 - [Juego Ping Pong](scratch/01-pingpong.md)
 - [Arkanoid](scratch/03-arkanoid.md)
 
