@@ -11,7 +11,7 @@ features:
 - title: Guías gratuitas
   details: Explora definiciones y codigos implementados
 
-footer: Made by  with ❤️ ZerferPlay
+footer: Made by ivegamerayo with ❤️ ZerferPlay
 ---
 ## Lista de cursos y tutoriales
 Una forma fácil de acceder a los contenido 👇🏼👇🏼👇🏼
