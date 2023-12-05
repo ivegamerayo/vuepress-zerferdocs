@@ -1,7 +1,7 @@
 {
   "name": "zerfer-docs",
   "version": "0.0.1",
-  "description": "",
+  "description": "Una aplicacion creada para mostrar ejercicios",
   "main": "index.js",
   "authors": {
     "name": "",
