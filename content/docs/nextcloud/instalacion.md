@@ -1,6 +1,6 @@
 ---
 title: "Instalación"
-description: ""
+description: "Instala y configura Nextcloud de una manera rápida y sencilla"
 summary: ""
 date: 2023-12-07T00:41:17+01:00
 lastmod: 2023-12-07T00:41:17+01:00
@@ -12,14 +12,13 @@ menu:
 weight: 999
 toc: true
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
+  title: "Como instalar y configurar nextcloud en una raspberry pi" # custom title (optional)
+  description: "Instala nextclouud en una raspberry pi" # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
 
 >**Prerequisitos**
-> - Descargada imagen de Nextcloud
 > - Raspberry 3B+ o superior
 > - Conocimientos básicos de Linux 😁
 > - [Balena etcher](https://etcher.balena.io/#download-etcher)
